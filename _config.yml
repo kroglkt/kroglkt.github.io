@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Niels Krog
-  location: Denmark
+  location: Location
   social: Around the Web
   credits: Credits
 
@@ -43,7 +43,7 @@ social:
     url: http://twitter.com/maxwellsalmon
   - title: github
     url: https://github.com/MaxwellSalmon
-  - title: itch
+  - title: itch-io
     url: https://maxwellsalmon.itch.io
 
 # Postal address (add as many lines as necessary)
