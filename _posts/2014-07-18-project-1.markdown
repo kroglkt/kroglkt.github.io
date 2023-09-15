@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 1
+title: Automatis
 date: 2023-04-01
 img: cabin.png
 alt: image-alt
