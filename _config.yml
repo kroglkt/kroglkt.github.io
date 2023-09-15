@@ -1,6 +1,6 @@
 # Site settings
 title: Niels Krog
-email: niels.krog1@gmail.com
+email: f/xbjvkozp
 url: https://kroglkt.github.io
 description: "Personal portfolio for Niels Krog: data science, natural language processing and Python development"
 keywords: "nlp,data science,python,ui,ux,visualization"
@@ -52,7 +52,7 @@ address:
   - line: Copenhagen, Denmark
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This page was created with an open source template from <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
