@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: WEA automation tool
+modal-id: 1
 date: 2023-04-01
 img: cabin.png
 alt: image-alt
 project-date: April 2023
-client: Start Bootstrap
+client: Danish Work Environment Authority
 category: RPA
 description: Software for automating repetitive tasks in the Danish Work Environment Authority. A user interface and documentation was also created for it.
  Developed with Python, PyAutoGui and PyPDF2.
