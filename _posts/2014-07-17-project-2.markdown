@@ -2,12 +2,13 @@
 layout: default
 modal-id: 2
 title: NLP Shared Task
-date: 2023-04-04
+date: 2023-05-05
 img: semeval.png
 alt: image-alt
 project-date: April 2023
 client: semeval23
 category: NLP
-description: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa
+description: A short published paper from semeval23 shared task. Generating clickbait spoilers using LLM's with my university professor.
+<a href="https://aclanthology.org/2023.semeval-1.66" target="_blank" rel="noopener noreferrer">Available online.</a>
 
 ---
