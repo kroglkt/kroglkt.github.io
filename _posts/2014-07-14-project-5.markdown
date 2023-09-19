@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
+date: 2022-07-14
+title: Master's Thesis
+img: thesis.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: June 2022
+client: University Of Copenhagen
+category: NLP
+description: The thesis revolved around the creation of a general-purpose text encoding, using both manually and automatically extracted features. Was performed on Danish news articles and presented at as a poster at a conference the same summer. More info on the thesis <a href="https://kroglkt.github.io/articlencoding/" target="_blank" rel="noopener noreferrer">available here.</a>.
 ---

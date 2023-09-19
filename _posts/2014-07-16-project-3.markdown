@@ -2,10 +2,11 @@
 layout: default
 modal-id: 3
 date: 2020-07-16
-img: duga.png
+title: DUGA
+img: duga.jpg
 alt: image-alt
 project-date: September 2018
 client: Hobby
 category: Game Development
-description: A pseudo-3D first-person shooter using raycasting made purely in Python and Pygame. Open sourced on <a href="https://github.com/MaxwellSalmon/DUGA">GitHub</a> and was featured on Pygame's website and itch.io. <href
+description: A pseudo-3D first-person shooter using raycasting made purely in Python and Pygame. Open sourced on <a href="https://github.com/MaxwellSalmon/DUGA" target="_blank" rel="noopener noreferrer">GitHub</a> and was featured on Pygame's website and the front page of Itch.io.
 ---
