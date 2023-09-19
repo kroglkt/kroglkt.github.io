@@ -2,8 +2,8 @@
 layout: default
 modal-id: 1
 title: Automatis
-date: 2023-04-01
-img: cabin.png
+date: 2023-05-01
+img: automatis.png
 alt: image-alt
 project-date: April 2023
 client: Danish Work Environment Authority
