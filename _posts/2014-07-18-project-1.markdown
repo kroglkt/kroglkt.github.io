@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 title: Automatis
-date: 2023-05-01
+date: 2022-12-12
 img: automatis.png
 alt: image-alt
 project-date: April 2023

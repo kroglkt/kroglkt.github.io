@@ -2,10 +2,11 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
+title: Virtual Avatar Chatbot
 img: submarine.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: KPMG
+category: Chatbot
+description: A prototype project for client satisfaction surveys. Using Uneeq API for avatar and React for front end customization. The chatbot backend was developed in Google Dialogflox CX.
 ---
