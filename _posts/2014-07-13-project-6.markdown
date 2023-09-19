@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: 2021-07-15
 title: Virtual Avatar Chatbot
 img: submarine.png
 alt: image-alt
-project-date: April 2014
+project-date: January 2021
 client: KPMG
 category: Chatbot
 description: A prototype project for client satisfaction surveys. Using Uneeq API for avatar and React for front end customization. The chatbot backend was developed in Google Dialogflox CX.
