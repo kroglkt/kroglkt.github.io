@@ -3,7 +3,7 @@ layout: default
 modal-id: 6
 date: 2021-07-15
 title: Virtual Avatar Chatbot
-img: submarine.png
+img: eva.png
 alt: image-alt
 project-date: January 2021
 client: KPMG
